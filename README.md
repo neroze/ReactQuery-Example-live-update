@@ -30,7 +30,8 @@ http://localhost:5173
  $ cd fe && yarn && yarn dev
 ```
 
-### Browse Monog-express @ localhost:8081
+### Browse Monog-express @ 
+http://localhost:8081
 
 - create DB "appleDB"
 - create collection "tweets"
