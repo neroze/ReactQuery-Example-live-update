@@ -20,9 +20,11 @@ $ docker-compose up build
 $ cd fe; yarn; yarn dev
 ```
 
-### check BE service @ http://localhost:3030
+### check BE service @ 
+http://localhost:3030
 
-### Run FE App @ http://localhost:5173
+### Run FE App @ 
+http://localhost:5173
 
 ```
  $ cd fe && yarn && yarn dev
